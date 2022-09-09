@@ -6,3 +6,6 @@ print("happy birthday")
 c="abc"
 d="efg"
 print(c+d)
+
+for i in range(5):
+    print(i)
