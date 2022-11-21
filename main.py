@@ -72,7 +72,7 @@ match lang:
     case _:
         print("The language doesn't matter, what matters is solving problems.")"""
 
-
+"""
 # concatenate
 n1=input("enter the string")
 n2=input("enter the second string")
@@ -109,8 +109,16 @@ def c(b,d):
     return conca
 b= "ME in"
 d=" AI"
-print(c(b,d))
+print(c(b,d)) """
 
+
+n=5
+for i in range(n):
+    for j in range(i,n):
+        print('',end='')
+    for j in range(i+1):
+        print('*',end=''
+print(\n)
 
 
 
